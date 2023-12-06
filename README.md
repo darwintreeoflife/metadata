@@ -5,7 +5,8 @@ For discussion and proposal of new/ammended fields to these documents, please vi
 
 
 Version list:
-- 2.4 (latest) - June 2022
+- 2.5 (latest) - Dec 2023
+- 2.4 - June 2022
 - 2.3 - March 2022
 - 2.2 - October 2020
 - 2.1 - October 2020
